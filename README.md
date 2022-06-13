@@ -8,10 +8,10 @@ HTML
 CSS
 </li>
 <li>
-CSS
+JavaScript
 </li>
 <li>
-JavaScript
+PHP
 </li>
 <u>
 <h2> Link Acessível: <h2>
