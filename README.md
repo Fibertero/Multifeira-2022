@@ -1,5 +1,4 @@
-# BioSystem-TCG
-An web TCG 
+# Segurança de sites
 <h2>🚀 Tecnologias Propostas</h2>
 <ul>
 <li>
@@ -9,11 +8,11 @@ HTML
 CSS
 </li>
 <li>
-Python
+CSS
 </li>
 <li>
-MySql
+JavaScript
 </li>
 <u>
-<h2> Documentação Inicial <h2>
+<h2> Link Acessível: <h2>
 <a href="https://www.notion.so/BioSystem-TCG-c85e5a92cf6c4068b036cc71130277fd">Clique Aqui</a>
